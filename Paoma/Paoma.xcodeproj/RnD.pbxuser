@@ -1,0 +1,174 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* PaomaAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {537, 299}}";
+			sepNavSelRange = "{58, 0}";
+			sepNavVisRange = "{39, 427}";
+		};
+	};
+	1D3623250D0F684500981E51 /* PaomaAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {516, 377}}";
+			sepNavSelRange = "{25, 0}";
+			sepNavVisRange = "{0, 381}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Paoma */ = {
+		activeExec = 0;
+		executables = (
+			BCAE48C1113FAEE3001D9F04 /* Paoma */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* PaomaViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {446, 247}}";
+			sepNavSelRange = "{248, 9}";
+			sepNavVisRange = "{0, 326}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* PaomaViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {712, 1066}}";
+			sepNavSelRange = "{848, 0}";
+			sepNavVisRange = "{538, 370}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = BCAE48C1113FAEE3001D9F04 /* Paoma */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Paoma */;
+		codeSenseManager = BCAE48CC113FAEED001D9F04 /* Code sense */;
+		executables = (
+			BCAE48C1113FAEE3001D9F04 /* Paoma */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					242,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 289386211;
+			PBXWorkspaceStateSaveDate = 289386211;
+		};
+		perUserProjectItems = {
+			BCAE48D1113FB09B001D9F04 /* PBXTextBookmark */ = BCAE48D1113FB09B001D9F04 /* PBXTextBookmark */;
+			BCAE48D2113FB09B001D9F04 /* PBXTextBookmark */ = BCAE48D2113FB09B001D9F04 /* PBXTextBookmark */;
+			BCAE48D3113FB09B001D9F04 /* PBXTextBookmark */ = BCAE48D3113FB09B001D9F04 /* PBXTextBookmark */;
+			BCAE48D4113FB09B001D9F04 /* PBXTextBookmark */ = BCAE48D4113FB09B001D9F04 /* PBXTextBookmark */;
+			BCAE48D5113FB09B001D9F04 /* PBXTextBookmark */ = BCAE48D5113FB09B001D9F04 /* PBXTextBookmark */;
+		};
+		sourceControlManager = BCAE48CB113FAEED001D9F04 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	BCAE48C1113FAEE3001D9F04 /* Paoma */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Paoma;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	BCAE48CB113FAEED001D9F04 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	BCAE48CC113FAEED001D9F04 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	BCAE48D1113FB09B001D9F04 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* PaomaAppDelegate.m */;
+		name = "PaomaAppDelegate.m: 2";
+		rLen = 0;
+		rLoc = 25;
+		rType = 0;
+		vrLen = 381;
+		vrLoc = 0;
+	};
+	BCAE48D2113FB09B001D9F04 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* PaomaAppDelegate.h */;
+		name = "PaomaAppDelegate.h: 5";
+		rLen = 0;
+		rLoc = 58;
+		rType = 0;
+		vrLen = 427;
+		vrLoc = 39;
+	};
+	BCAE48D3113FB09B001D9F04 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* PaomaViewController.h */;
+		name = "PaomaViewController.h: 13";
+		rLen = 9;
+		rLoc = 248;
+		rType = 0;
+		vrLen = 326;
+		vrLoc = 0;
+	};
+	BCAE48D4113FB09B001D9F04 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* PaomaViewController.m */;
+		name = "PaomaViewController.m: 51";
+		rLen = 0;
+		rLoc = 1297;
+		rType = 0;
+		vrLen = 620;
+		vrLoc = 910;
+	};
+	BCAE48D5113FB09B001D9F04 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* PaomaViewController.m */;
+		name = "PaomaViewController.m: 37";
+		rLen = 0;
+		rLoc = 848;
+		rType = 0;
+		vrLen = 370;
+		vrLoc = 538;
+	};
+}
